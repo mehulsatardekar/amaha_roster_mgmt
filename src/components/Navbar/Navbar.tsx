@@ -36,15 +36,20 @@ const Navbar = () => {
                 ></path>
               </svg>
             </button>
-            <a href="https://flowbite.com" className="flex ms-2 md:me-24">
+            <a
+              href="https://www.amahahealth.com/"
+              className="flex ms-2 md:me-24"
+              rel="noopener noreferrer"
+              target="_blank"
+            >
               <Image
-                src="https://flowbite.com/docs/images/logo.svg"
+                src="https://cdn.theinnerhour.com/assets/images/AmahaLogo.svg"
                 className="h-8 me-3"
                 alt="FlowBite Logo"
-                width={20}
+                width={70}
                 height={30}
               />
-              <h1 className="self-center text-gray-900 text-xl font-semibold sm:text-2xl whitespace-nowrap dark:text-white">
+              <h1 className="self-center text-gray-600 text-xl font-semibold sm:text-2xl whitespace-nowrap dark:text-white">
                 Provider Calender
               </h1>
             </a>

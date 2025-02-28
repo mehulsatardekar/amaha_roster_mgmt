@@ -54,10 +54,14 @@ This application uses Nextjs (pages) structure.
 
 ## Tech Stack
 
-- **Client:**  Nextjs, Tailwind, flowbite (Tailwind CSS wrapper for fast dev), fullcalender-react
+- **Client:**  Nextjs, Tailwind, flowbite (Tailwind CSS wrapper for fast dev), FullCalendar-React
 - **Cloud & Infra:** Netlify . 
 
 
+### Scope and Future Improvement
 
+Featurs
 
-
+- Support of adding new events directly on a particular therapist's calendars with CRUD operations
+- dark mode features
+- user auth for specific user flow, so a particular user can add their respective slot and booking.
